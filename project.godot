@@ -13,7 +13,9 @@ config_version=5
 config/name="ProtocolBuffersTool"
 run/main_scene="res://main.tscn"
 config/features=PackedStringArray("4.3", "Forward Plus")
-config/icon="res://icon.svg"
+boot_splash/image="res://生草icon.png"
+config/icon="res://生草icon.png"
+boot_splash/minimum_display_time=40000
 
 [display]
 
